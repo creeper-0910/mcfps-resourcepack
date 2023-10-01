@@ -3,8 +3,8 @@
 	"parent": "replicator",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "block/replicator",
-		"particle": "block/replicator"
+		"0": "item/replicator",
+		"particle": "item/replicator"
 	},
 	"elements": [
 		{
