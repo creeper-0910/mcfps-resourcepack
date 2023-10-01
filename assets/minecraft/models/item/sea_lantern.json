@@ -38,5 +38,12 @@
 			},
 			"model": "minecraft:item/replicator"
 		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/wat_spleg"
+		}
 	]
 }
