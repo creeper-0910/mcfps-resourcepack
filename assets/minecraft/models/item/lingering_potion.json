@@ -12,5 +12,12 @@
 			},
 			"model": "minecraft:item/grenade"
 		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/bomb"
+		}
 	]
 }
