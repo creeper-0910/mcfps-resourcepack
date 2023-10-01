@@ -31,5 +31,12 @@
 			},
 			"model": "minecraft:item/newt_close"
 		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/replicator"
+		}
 	]
 }
