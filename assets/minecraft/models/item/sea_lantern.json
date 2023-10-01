@@ -1,0 +1,35 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/sea_lantern"
+	},
+
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/pylon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/pylon_leg"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/newt"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/newt_close"
+		}
+	]
+}
