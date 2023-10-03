@@ -1,5 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
+    "tintindex": 1,
 	"textures": {
 		"layer0": "item/potion_overlay",
 		"layer1": "item/lingering_potion"

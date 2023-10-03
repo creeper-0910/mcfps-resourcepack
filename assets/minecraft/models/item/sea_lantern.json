@@ -45,5 +45,19 @@
 			},
 			"model": "minecraft:item/wat_spleg"
 		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/knife"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/fence"
+		}
 	]
 }
