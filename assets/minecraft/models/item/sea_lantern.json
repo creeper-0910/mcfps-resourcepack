@@ -66,5 +66,12 @@
 			},
 			"model": "minecraft:item/trypio"
 		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:item/launcher"
+		}
 	]
 }
