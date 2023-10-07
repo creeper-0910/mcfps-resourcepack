@@ -24,7 +24,7 @@
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "minecraft:item/flashgang"
+			"model": "minecraft:item/flashbang"
 		}
 	]
 }
