@@ -22,6 +22,12 @@
 				"custom_model_data": 4
 			},
 			"model": "minecraft:item/wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/bat_wing"
 		}
 	]
 }
