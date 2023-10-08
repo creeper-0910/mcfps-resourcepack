@@ -28,6 +28,12 @@
 				"custom_model_data": 5
 			},
 			"model": "minecraft:item/bat_wing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/tripmine"
 		}
 	]
 }
