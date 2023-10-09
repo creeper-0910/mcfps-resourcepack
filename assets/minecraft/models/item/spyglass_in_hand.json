@@ -1,6 +1,6 @@
 {
     "textures": {
-        "spyglass": "item/amt"
+      "spyglass": "item/spyglass_model"
     },
     "elements": [
         {
@@ -48,10 +48,13 @@
             "translation": [0, 0, -1.5],
             "scale": [1.5, 1.5, 1.5]
         }
-},
-"overrides": [
-    { "predicate": {"custom_model_data": 1}, "model": "item/amt"},
-    { "predicate": {"custom_model_data": 2}, "model": "item/amt"}
-
+    },
+    "overrides": [
+    	{
+    		"predicate": {
+    			"custom_model_data": 513
+    		},
+    		"model": "item/amt"
+    	}
     ]
 }
