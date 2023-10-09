@@ -6,7 +6,7 @@
 	"overrides": [
 		{
 			"predicate": {
-				"custom_model_data": 512
+				"custom_model_data": 513
 			},
 			"model": "item/amt"
 		}
