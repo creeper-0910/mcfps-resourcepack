@@ -34,6 +34,12 @@
 				"custom_model_data": 6
 			},
 			"model": "minecraft:item/tripmine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/infinityhold"
 		}
 	]
 }
