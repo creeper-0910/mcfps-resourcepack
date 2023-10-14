@@ -19,7 +19,7 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 3
+				"custom_model_data": 4
 			},
 			"model": "minecraft:item/smg_proto"
 		},
@@ -28,6 +28,12 @@
 				"custom_model_data": 513
 			},
 			"model": "minecraft:item/amt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/orig"
 		}
 	]
 }
