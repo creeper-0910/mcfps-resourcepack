@@ -34,6 +34,12 @@
 				"custom_model_data": 6
 			},
 			"model": "minecraft:item/orig"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/sks"
 		}
 	]
 }
