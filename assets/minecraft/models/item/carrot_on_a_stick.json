@@ -31,7 +31,7 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 6
+				"custom_model_data": 5
 			},
 			"model": "minecraft:item/orig"
 		},
@@ -40,6 +40,11 @@
 				"custom_model_data": 7
 			},
 			"model": "minecraft:item/sks"
+		},		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/em-gun"
 		}
 	]
 }
