@@ -78,6 +78,12 @@
 				"custom_model_data": 11
 			},
 			"model": "minecraft:item/tea"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:item/bullet"
 		}
 	]
 }
