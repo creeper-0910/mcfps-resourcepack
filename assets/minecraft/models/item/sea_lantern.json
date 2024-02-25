@@ -84,6 +84,12 @@
 				"custom_model_data": 12
 			},
 			"model": "minecraft:item/bullet"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "minecraft:item/gunstock"
 		}
 	]
 }
